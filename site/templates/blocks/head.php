@@ -9,7 +9,7 @@ require ("db/db.php");
   <link rel="canonical" href="https://www.ampstart.com/templates/e-commerce/product-listing.amp">
   <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
   <meta name="amp-google-client-id-api" content="googleanalytics">
-
+  <link rel="icon" href="img/ico.ico" type="image/icon type">
   <script async="" src="https://cdn.ampproject.org/v0.js"></script>
 
 
